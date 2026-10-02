@@ -18,6 +18,12 @@ Customers, repairs, staff, stock, orders, reminders and WhatsApp — in one self
 
 ---
 
+## See it live
+
+<img src="screenshots/dashboard-live.gif" alt="JewelFold AI dashboard — the live AI band at the top" width="100%" />
+
+<sub>The live band at the top of the dashboard. Its light reads the shop's alert centre: calm when nothing is waiting, and it changes colour and weather as work piles up or goes late. Drawn in real time in the browser, with no libraries.</sub>
+
 ## Why JewelFold AI
 
 Most jewellery shops run on registers, spreadsheets and memory. JewelFold AI puts the whole back office in one place — and because it runs on **your own server or shop PC**, there is **no monthly fee**, no lock-in, and the shop's data never leaves the shop.
